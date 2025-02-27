@@ -1,0 +1,37 @@
+[
+  {
+    "season": "1",
+    "episode": "1",
+    "seasonNumber": 1,
+    "episodeNumber": 1,
+    "title": "The One Where Monica Gets a Roommate",
+    "airdate": "1994-09-22",
+    "plot": "Rachel Green, a runaway bride, seeks out her childhood friend Monica Geller and moves in with her in New York City.",
+    "conversations": [
+      {
+        "said": "There's nothing to tell! It's just some guy I work with!",
+        "person": "Monica"
+      },
+      {
+        "said": "Come on! You're going out with the guy! There's gotta be something wrong with him!",
+        "person": "Joey"
+      },
+      {
+        "said": "Alright Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+        "person": "Chandler"
+      },
+      {
+        "said": "Wait, does he eat chalk?",
+        "person": "Phoebe"
+      },
+      {
+        "said": "I just don't want her to go through what I went through with Carl.",
+        "person": "Ross"
+      },
+      {
+        "said": "Okay, everybody relax. This is not even a date. It's just two people going out to dinner and not having sex.",
+        "person": "Monica"
+      }
+    ]
+  }
+]
