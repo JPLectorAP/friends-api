@@ -31,6 +31,92 @@
       {
         "said": "Okay, everybody relax. This is not even a date. It's just two people going out to dinner and not having sex.",
         "person": "Monica"
+      },
+      {
+        "said": "Sounds like a date to me.",
+        "person": "Chandler"
+      },
+      {
+        "said": "I guess we’re not sitting together anymore.",
+        "person": "Ross"
+      }
+    ]
+  },
+  {
+    "season": "1",
+    "episode": "2",
+    "seasonNumber": 1,
+    "episodeNumber": 2,
+    "title": "The One with the Sonogram at the End",
+    "airdate": "1994-09-29",
+    "plot": "Ross finds out that his ex-wife Carol is pregnant with his child, and Rachel struggles with returning her engagement ring to Barry.",
+    "conversations": [
+      {
+        "said": "Guess what, guess what, guess what!",
+        "person": "Rachel"
+      },
+      {
+        "said": "The fifth dentist caved and now they’re all recommending Trident?",
+        "person": "Chandler"
+      },
+      {
+        "said": "You don’t get a lot of ‘doy’ these days...",
+        "person": "Joey"
+      },
+      {
+        "said": "I can’t believe I have to return my ring to Barry today. I feel like I'm breaking up with him all over again.",
+        "person": "Rachel"
+      },
+      {
+        "said": "Oh, sure, what’s one more thing for Ross to be worried about? I mean, it’s not like he’s already going to be a father or anything.",
+        "person": "Chandler"
+      },
+      {
+        "said": "You guys can spoil all the fun, but I’m happy for you, Ross. You’re going to be a great dad.",
+        "person": "Phoebe"
+      }
+    ]
+  },
+  {
+    "season": "1",
+    "episode": "3",
+    "seasonNumber": 1,
+    "episodeNumber": 3,
+    "title": "The One with the Thumb",
+    "airdate": "1994-10-06",
+    "plot": "Phoebe gets a bank error in her favor and struggles with keeping the money, while Chandler starts smoking again.",
+    "conversations": [
+      {
+        "said": "Guess what!",
+        "person": "Phoebe"
+      },
+      {
+        "said": "The fifth dentist caved and now they're all recommending Trident?",
+        "person": "Chandler"
+      },
+      {
+        "said": "No! I got $500 in my bank account by mistake! And then they sent me a football phone to apologize!",
+        "person": "Phoebe"
+      },
+      {
+        "said": "You got free money? And a phone? I want to live in your world!",
+        "person": "Joey"
+      },
+      {
+        "said": "Well, you know, you don’t really expect to find a thumb in a soda can...",
+        "person": "Rachel"
+      },
+      {
+        "said": "What are you talking about?",
+        "person": "Ross"
+      },
+      {
+        "said": "Phoebe found a thumb in her soda can! And now the soda company is paying her $7,000!",
+        "person": "Monica"
+      },
+      {
+        "said": "You won $7,000 for finding a thumb? I’ve been drinking the wrong sodas!",
+        "person": "Chandler"
       }
     ]
   }
